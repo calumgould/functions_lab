@@ -57,7 +57,7 @@ end
 include Math
 
 def volume_of_sphere(radius)
-  return 1.33 * Math::PI * (radius ** radius)
+  return 1.3333 * Math::PI * (radius ** radius)
 end
 
 def fahrenheit_to_celsius(temp)
